@@ -40,5 +40,5 @@ end
 
 while true do
     status("Boot Loader loaded")
-    os.sleep(0.5)
+    --os.sleep(0.5)
 end
