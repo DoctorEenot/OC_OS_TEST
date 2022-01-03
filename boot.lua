@@ -39,6 +39,6 @@ end
 
 
 while true do
-    status("Boot Loader loaded")
+    status("Ya zaebalsya")
     --os.sleep(0.5)
 end
