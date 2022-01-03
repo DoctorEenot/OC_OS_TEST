@@ -40,5 +40,5 @@
 -- status("Boot Loader loaded")
 
 while true do
-
+    os.sleep(0.05)
 end
